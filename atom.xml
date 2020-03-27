@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://net-script.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-27T06:14:08.185Z</updated>
+    <title>因爱儿</title>
+    <updated>2020-03-27T07:25:38.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://net-script.github.io"/>
     <link rel="self" href="https://net-script.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>母婴用品甄选网——因爱而生</subtitle>
     <logo>https://net-script.github.io/images/avatar.png</logo>
     <icon>https://net-script.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 因爱儿</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://net-script.github.io/post/hello-gridea/</id>
